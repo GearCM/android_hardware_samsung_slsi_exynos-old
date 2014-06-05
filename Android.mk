@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifeq ($(TARGET_SLSI_VARIANT),insignal)
+ifeq ($(TARGET_SLSI_VARIANT),odroidxu)
 
 common_exynos_dirs := \
 	libstagefrighthw \
