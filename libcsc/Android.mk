@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-PLATFORM_DIR := $(TARGET_BOARD_PLATFORM)-insignal
+PLATFORM_DIR := $(TARGET_BOARD_PLATFORM)-odroidxu
 
 OMX_NAME := exynos
 
